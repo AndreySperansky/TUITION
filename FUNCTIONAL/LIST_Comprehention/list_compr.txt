@@ -1,0 +1,5 @@
+В форме функции         В форме спискового включения
+
+filter(f, lst)          [x for x in lst if f(x)]
+filter(None, lst)       [x for x in lst if x]
+map(f, lst)             [f(x) for x in lst]

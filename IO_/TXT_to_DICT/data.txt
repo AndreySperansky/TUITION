@@ -1,0 +1,3 @@
+smt1 a b c d
+smt2 e f g
+smt3 h i j k l
